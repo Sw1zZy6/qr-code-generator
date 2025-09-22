@@ -5,8 +5,7 @@
   "main": "server.js",
   "scripts": {
     "dev": "nodemon backend/main.js",
-    "start": "node backend/main.js",
-    "postinstall": "npx prisma generate"
+    "start": "node backend/main.js"
   },
   "type": "module",
   "author": "",
